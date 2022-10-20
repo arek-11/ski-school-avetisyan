@@ -30,6 +30,7 @@
     }
 
 /* main */
+
     .about-title {
         font-size: 48px;
         font-weight: 500;
@@ -51,7 +52,22 @@
         
     }
 
-    
+    .about-main {
+        font-size: 48px;
+        font-weight: 500;
+        line-height: 80px;
 
-    font-size: 32px;
-    line-height: 38px;
+    }
+
+        /* Footer */
+
+        .footer-title {
+
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 44px;
+        
+
+        }
+
+        
